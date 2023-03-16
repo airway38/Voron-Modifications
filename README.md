@@ -7,13 +7,13 @@ Link to [Klipper Config Files and SuperSlicer profile backup](https://github.com
 
 ## Modification list
 
-BTT Smart Filament Sensor Frame Mount
+###### BTT Smart Filament Sensor Frame Mount
 
-  Another method to mount the SFS onto the frame.
+ Another method to mount the SFS onto the frame.
   
  
-Midnite3DP Bedpan Modification
+###### Midnite3DP Bedpan Modification
 
-  Original: https://github.com/Midnite3DP/voron-bedpan
+Original: https://github.com/Midnite3DP/voron-bedpan
   
-  I've modified the wago mount to brdige across the gap to provide a tidier solution for cables from the bed. Also adjusted the pan to allow for the extra height added.
+I've modified the wago mount to brdige across the gap to provide a tidier solution for cables from the bed. Also adjusted the pan to allow for the extra height added.
