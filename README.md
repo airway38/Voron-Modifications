@@ -9,7 +9,7 @@ Link to [Klipper Config Files and SuperSlicer profile backup](https://github.com
 
 ###### BTT Smart Filament Sensor Frame Mount
 
- Another method to mount the SFS onto the frame.
+Another method to mount the SFS onto the frame.
   
  
 ###### Midnite3DP Bedpan Modification
