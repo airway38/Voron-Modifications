@@ -13,12 +13,12 @@ Note that actual image is showing how the sensor sits in the mount and design ha
 
 ###### Installation
 
-Print.
+1. Print. Standard Voron settings. 
 
-Push the SFS into the obvious slots.
+2. Push the SFS into the obvious slots.
 
-Mount to top frame extrusion with nuts of your choice.
+3. Mount to top frame extrusion with nuts of your choice.
 
-Done.
+4. Done.
 
 You may need to adjust the depth depending on foam and panel thickness. This is based on 4mm PC sheets with 3mm foam. 
