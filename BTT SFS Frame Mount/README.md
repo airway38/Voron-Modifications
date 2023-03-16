@@ -2,7 +2,7 @@
 
 This is designed to mount the filament sensor on the top part of a Voron 2.4 frame. 
 
-!(Images/btt_sfs_frame_mount_2.jpg)
+![Sample Picture](/BTT SFS Frame Mount/Images/btt_sfs_frame_mount_2.jpg)
 
 Note that actual image is showing how the sensor sits in the mount and design has been amended since.
 
