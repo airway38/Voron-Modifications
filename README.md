@@ -7,7 +7,7 @@ Link to [Klipper Config Files and SuperSlicer profile backup](https://github.com
 
 ## Modification list
 
-###### BTT Smart Filament Sensor Frame Mount
+###### [BTT Smart Filament Sensor Frame Mount](https://github.com/airway38/Voron-Modifications/tree/main/BTT%20SFS%20Frame%20Mount)
 
 Another method to mount the SFS onto the frame.
   
