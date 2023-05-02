@@ -2,7 +2,7 @@
 
 Modified from Midnite3DP's design, I had an issue with my wires causing the bucket to sit at an angle. This modification means that the wires can be managed by routing them under with the bedpan sitting level again.
 
-!(Images/bedpan_render_1.jpg)
+![Render of bedpan in Fusion 360](Images/bedpan_render_1.png)
 
 
 ###### BOM
@@ -20,3 +20,7 @@ As per the original, no supports etc needed.
 Macro I've been using is available here:
 
 https://github.com/airway38/Klipper-Config/blob/master/klipper_config/custom_cfgs/purge_bucket.cfg
+
+![Render of bedpan in Fusion 360 without cover and pan](Images/bedpan_render_2.png)
+
+![Installed bedpan](Images/bedpan_installed.jpg)
