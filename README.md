@@ -12,7 +12,7 @@ Link to [Klipper Config Files and SuperSlicer profile backup](https://github.com
 Another method to mount the SFS onto the frame.
   
  
-###### Midnite3DP Bedpan Modification
+###### [Midnite3DP Bedpan Modification](https://github.com/airway38/Voron-Modifications/tree/main/Midnite3DP%20Bedpan%20Modification)
 
 Original: https://github.com/Midnite3DP/voron-bedpan
   
