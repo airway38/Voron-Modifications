@@ -16,4 +16,4 @@ Another method to mount the SFS onto the frame.
 
 Original: https://github.com/Midnite3DP/voron-bedpan
   
-I've modified the wago mount to brdige across the gap to provide a tidier solution for cables from the bed. Also adjusted the pan to allow for the extra height added.
+I've modified the wago mount to bridge across the gap to provide a tidier solution for cables from the bed. Also adjusted the pan to allow for the extra height added.
